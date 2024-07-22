@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "d2f2",
+      "cityName": "Balearic Islands",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-22T20:34:34.281Z",
+      "notes": "",
+      "position": {
+        "lat": "39.690280594818034",
+        "lng": "2.1972656250000004"
+      }
+    },
+    {
+      "id": "2800",
+      "cityName": "Europe/Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-22T20:34:37.748Z",
+      "notes": "",
+      "position": {
+        "lat": "37.85750715625203",
+        "lng": "-0.6811523437500001"
+      }
+    }
+  ]
+}
